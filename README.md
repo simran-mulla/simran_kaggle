@@ -1,2 +1,4 @@
 # simran_kaggle
-this is my first git repository
+Author - Simaran Mulla<br>
+Member - 1) Anand <br> 2) Shubham
+
